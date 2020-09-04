@@ -1,5 +1,11 @@
 import React from "react";
+import datagraph from "./images/datagraph_web.png";
+import "./Datagraph.css";
 
 export default function Datagraph() {
-  return <img src="#" alt="datagraph" />;
+  return (
+    <div className="Datagraph">
+      <img alt="datagraph" src={datagraph} />
+    </div>
+  );
 }
