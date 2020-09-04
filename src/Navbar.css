@@ -1,0 +1,9 @@
+ul {
+  text-align: center;
+  padding: 30px 0px 30px 0px;
+}
+li {
+  list-style: none;
+  display: inline;
+  padding: 0px 100px 0px 100px;
+}
