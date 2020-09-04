@@ -15,8 +15,8 @@ export default function Description() {
         the project tackles issues such as data colonialism, stereotypes,
         marginalisation, collective trauma and agency. The platform will collect
         and map a collaborative image dataset, uploaded by users worldwide for
-        train- ing future, computer vision technologies challen- ging mainstream
-        re- presentations of migrants.
+        training future, computer vision technologies challenging mainstream
+        representations of migrants.
       </p>
     </div>
   );
