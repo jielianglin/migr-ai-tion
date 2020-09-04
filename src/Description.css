@@ -1,0 +1,12 @@
+h3 {
+  font-size: 30px;
+  font-style: italic;
+  color: grey;
+}
+.Description {
+  text-align: left;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  padding: 00px 30px 15px 30px;
+}
