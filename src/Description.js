@@ -4,7 +4,9 @@ import "./Description.css";
 export default function Description() {
   return (
     <div className="Description">
-      <h3>Description</h3>
+      <h3>
+        <u>Description</u>
+      </h3>
       <p>
         [Migr-ai-tion.net] is an applied, interdisciplinary research project
         that investigates the potentials of AI as a participatory and

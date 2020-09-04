@@ -1,9 +1,6 @@
 ul {
-  text-align: center;
-  padding: 30px 0px 30px 0px;
+  text-align: right;
 }
 li {
   list-style: none;
-  display: inline;
-  padding: 0px 100px 0px 100px;
 }

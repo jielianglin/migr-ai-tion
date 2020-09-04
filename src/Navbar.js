@@ -11,9 +11,7 @@ export default function Navbar() {
         <li>
           <a href="/about">About</a>
         </li>
-        <li>
-          <a href="#">Contact</a>
-        </li>
+        <li></li>
       </ul>
     </div>
   );
