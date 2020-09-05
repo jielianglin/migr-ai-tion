@@ -1,0 +1,15 @@
+.Caption p {
+  position: relative;
+  top: -40px;
+  text-align: right;
+  padding-right: 150px;
+}
+
+.Icons p {
+  color: magenta;
+  font-size: 30px;
+}
+
+.Icons .dot {
+  color: blue;
+}
