@@ -1,6 +1,6 @@
-ul {
+.Navbar ul {
   text-align: right;
 }
-li {
+.Navbar li {
   list-style: none;
 }

@@ -7,9 +7,9 @@ export default function Caption() {
       <div className="Datagraph">
         <p>
           <i>
-            <u> above:</u> visualization of computer vision word classification
-            system{" "}
-          </i>{" "}
+            <u> about:</u> visualization of computer vision word classification
+            system
+          </i>
         </p>
       </div>
       <br />
