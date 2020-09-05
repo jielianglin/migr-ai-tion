@@ -13,14 +13,6 @@ export default function Caption() {
         </p>
       </div>
       <br />
-
-      <div className="Icons">
-        <p>
-          <span className="dot">.</span>upload <br />
-          <span className="dot">.</span>trace <br />
-          <span className="dot">.</span>tag <br />
-        </p>
-      </div>
     </div>
   );
 }

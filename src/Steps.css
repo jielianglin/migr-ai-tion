@@ -1,0 +1,11 @@
+.Steps p {
+  position: relative;
+  top: -70px;
+  left: 0px;
+  color: magenta;
+  font-size: 30px;
+}
+
+.Steps .dot {
+  color: blue;
+}

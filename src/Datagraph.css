@@ -1,3 +1,5 @@
 img {
+  position: relative;
+  top: -50px;
   width: 95%;
 }
